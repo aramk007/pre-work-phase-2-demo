@@ -1,0 +1,61 @@
+h1 {
+    color: green;
+}
+li {
+    list-style: none;
+}
+table{
+    border-collapse: collapse;
+}
+table, td, th {
+    border: 1px solid black;
+}
+.html-list{
+    list-style: square;
+}
+.css-list{
+    color: blue;
+}
+.center{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.center-list{
+    width: 100%;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+    margin-left: 43%;
+
+}
+input, label, textarea {
+    display: block;
+    margin-top: .3em;
+
+}
+@media (width <= 700px) {
+    .center-list{
+        margin-left: 30%;
+    }
+}
+@media (width <= 900px) {
+    .center-list{
+        margin-left: 31%;
+    }
+}
+@media (width <= 1100px) {
+    .center-list{
+        margin-left: 33%;
+    }
+}
+@media (width <= 1300px) {
+    .center-list{
+        margin-left: 36%;
+    }
+}
+@media (width <= 1500px) {
+    .center-list{
+        margin-left: 40%;
+    }
+}

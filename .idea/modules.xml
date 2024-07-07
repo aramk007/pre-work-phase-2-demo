@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/variables-and-types.iml" filepath="$PROJECT_DIR$/.idea/variables-and-types.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/pre-work-phase-2.iml" filepath="$PROJECT_DIR$/.idea/pre-work-phase-2.iml" />
+>>>>>>> 329c4ca2543b37ade9073f1ea590fd13cb8e3fff
     </modules>
   </component>
 </project>
